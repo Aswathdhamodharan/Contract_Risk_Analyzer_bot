@@ -1,0 +1,21 @@
+EMPLOYMENT AGREEMENT
+
+This Employment Agreement (the "Agreement") is made this 5th day of February, 2026, by and between TechCorp Solutions Pvt Ltd (the "Company") and Rahul Sharma (the "Employee").
+
+1. POSITION AND DUTIES
+The Company agrees to employ the Employee as Senior Developer.
+
+2. COMPENSATION
+The Company shall pay the Employee a salary of INR 12,00,000 per annum.
+
+3. NON-COMPETE (High Risk)
+During the term of this Agreement and for a period of 5 years after termination, the Employee shall not engage in any business, directly or indirectly, that competes with the Company anywhere in Asia.
+
+4. IP ASSIGNMENT
+All intellectual property created by the Employee, whether during work hours or not, shall belong exclusively to the Company.
+
+5. TERMINATION
+The Company may terminate this Agreement at any time without notice or cause. The Employee must provide 90 days notice.
+
+6. GOVERNING LAW
+This Agreement shall be governed by the laws of India.

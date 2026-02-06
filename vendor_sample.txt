@@ -1,0 +1,19 @@
+VENDOR SERVICE AGREEMENT
+
+Date: 01/03/2026
+Between: Alpha Retailers ("Client") and FastLogistics ("Vendor")
+
+1. SERVICES
+Vendor agrees to provide delivery services.
+
+2. PAYMENT
+Client agrees to pay Vendor INR 500 per delivery.
+
+3. DELAY PENALTY
+If Vendor fails to deliver within 24 hours, a penalty of INR 5000 per delayed package shall be imposed. This penalty is uncapped.
+
+4. INDEMNIFICATION
+Vendor agrees to indemnify the Client against ANY and ALL claims, extending to third-party liabilities, regardless of fault.
+
+5. UNILATERAL MODIFICATION
+The Client reserves the right to modify the terms of this agreement at any time without prior notice to the Vendor.
