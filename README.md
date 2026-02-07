@@ -18,7 +18,7 @@ Legal contract analyst bot designed for Indian SMEs. Built for the GUVI Hackatho
    ```
 
 2. **Configure API Key**
-   - Open `config.py` and set your `ANTHROPIC_API_KEY`.
+   - Open `config.py` and set your `Gemini Pro_API_KEY`.
    - OR run the app and enter the key in the sidebar.
 
 3. **Run the App**
@@ -28,15 +28,13 @@ Legal contract analyst bot designed for Indian SMEs. Built for the GUVI Hackatho
 
 ## Project Structure
 - `app.py`: Main Streamlit application.
-- `contract_analyzer.py`: Integrates with Claude API.
+- `contract_analyzer.py`: Integrates with Gemini API.
 - `risk_scorer.py`: Logic for risk scoring.
 - `utils.py`: Helper functions for file reading and NLP.
 - `templates/`: Sample contracts.
 
 ## Key Technologies
 - **Frontend**: Streamlit
-- **LLM**: Anthropic Claude API
+- **LLM**: Google Gemini API
 - **NLP**: spaCy
 
-## Contact
-Team Antigravity
